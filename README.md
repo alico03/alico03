@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, My name is Ali. I want to be a software developer.</h1>
 
-<!--
-**alico03/alico03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ## Technologies I'm Interested In
+- 🌐 Web Development
+- 📱 Mobile Application
+- ☁️ Cloud Services
+- 🎮 Game Development
 
-Here are some ideas to get you started:
+### Languages ​​
+![PHP](https://img.shields.io/badge/-PHP-8993BE?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## My Projects
+Soon
+
+
+
